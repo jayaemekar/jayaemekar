@@ -9,7 +9,11 @@
 <a href="https://github.com/jayaemekar">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayaemekar&theme=darcula" />
 </a>
+ 
 <br>
+
+<br>
+
  
   
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Zone
@@ -38,6 +42,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jayaemekar" />
 </a>-->
  </div> 
+
+<br> 
+<br>
+ <div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=jayaemekar&theme=onedark&column=8" alt="zumrudu-anka" />
+    </a>
+</div>
+
 
 ### Facts about me:<br>
 - 👋 Hi, I’m @jayaemekar
